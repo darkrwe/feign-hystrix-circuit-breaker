@@ -14,7 +14,7 @@
         <springframework.boot.version>2.0.4.RELEASE</springframework.boot.version>
         <mysqlConnectorVersion>8.0.16</mysqlConnectorVersion>
         <snakeYamlVersion>1.23</snakeYamlVersion>
-        <junit.version>4.11</junit.version>
+        <junit.version>4.13.1</junit.version>
         <spring-cloud.version>Finchley.SR4</spring-cloud.version>
         <spring-cloud-hystrix.version>1.1.5.RELEASE</spring-cloud-hystrix.version>
     </properties>

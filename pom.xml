@@ -11,7 +11,7 @@
     <description>Micro service base Application</description>
 
     <properties>
-        <springframework.boot.version>2.0.4.RELEASE</springframework.boot.version>
+        <springframework.boot.version>2.5.12</springframework.boot.version>
         <mysqlConnectorVersion>8.0.16</mysqlConnectorVersion>
         <snakeYamlVersion>1.23</snakeYamlVersion>
         <junit.version>4.11</junit.version>
